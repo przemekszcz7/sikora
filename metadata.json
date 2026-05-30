@@ -1,0 +1,6 @@
+{
+  "name": "Nieruchomości Ubezpieczenia Sikora",
+  "description": "Profesjonalna strona biura nieruchomości i ubezpieczeń Sikora w Legnicy. Oferty sprzedaży, kupna i wynajmu nieruchomości.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
